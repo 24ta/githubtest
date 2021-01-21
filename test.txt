@@ -1,4 +1,11 @@
 test
+golden kamuy ranking 
+1.ogata
+2.tsukishima
+3.koito
+4.tsurumi
+5.sugimoto
+みてくれ～
 push mtsuka1999
 branch master
 branch alice
