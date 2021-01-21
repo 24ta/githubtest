@@ -1,5 +1,5 @@
 test
-golden kamuy ranking 
+golden kamuy Favorite Character Ranking
 1.ogata
 2.tsukishima
 3.koito
